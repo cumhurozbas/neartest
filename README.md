@@ -1,0 +1,2 @@
+# neartest
+near testnet
